@@ -24,3 +24,11 @@ CSV files are from Kaggle: The History of Baseball
 1. 
 2. 
 3. 
+
+-----------
+
+# Resources
+
+1. Kaggle: https://www.kaggle.com/seanlahman/the-history-of-baseball
+2. Steroid Era: https://www.espn.com/mlb/topics/_/page/the-steroids-era
+3. Strength Training: http://baseballstrength.org/history-of-strength-and-conditioning-in-professional-baseball-part-3-into-the-90s-the-emergence-of-strength-in-baseball/ 
