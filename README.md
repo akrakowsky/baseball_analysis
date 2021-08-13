@@ -9,11 +9,12 @@ CSV files are from Kaggle: The History of Baseball
 
 1. Baseball Stats
     1. baseball_analysis.ipynb
-    2. pitching.csv
-    3. batting.csv
-    4. fielding.csv
-    5. players.csv
-    6. config.py
+    2. images of charts and plots
+    3. pitching.csv
+    4. batting.csv
+    5. fielding.csv
+    6. players.csv
+    7. config.py
 2. License
 3. ReadMe
 
