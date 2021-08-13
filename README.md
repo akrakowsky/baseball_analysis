@@ -23,11 +23,13 @@ CSV files are from Kaggle: The History of Baseball
 # Observations for Baseball Analysis
 
 1. Where are professional baseball players born?
-    1. Signicant amount of players were born in California with Texas and Florida being the 2nd and 3rd most players.
-2. Should the National League adopt the designated hitter rule.
     - Signicant amount of players were born in California with Texas and Florida being the 2nd and 3rd most players.
-3. Should the National League adopt the designated hitter rule.
-5. 
+2. Should the National League adopt the designated hitter rule?
+    - Yes. The American League has an overal higher batting average every year than the National League.
+3. Has batting average or pitching era imporved over the years?
+    - There was a spike in batting average and pitching era in the 90's through early 2000's. Possbile explanation for spike was new training methods developed and use of performance enhancing substances.
+4. Do players with more years of professional experience have better fielding percentage?
+    - There seemed to be no difference in fielding across all positions possibly due to athletes being of high skill and playing time is reduced if player is struggling.
 
 -----------
 
