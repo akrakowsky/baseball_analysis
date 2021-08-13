@@ -22,9 +22,12 @@ CSV files are from Kaggle: The History of Baseball
 
 # Observations for Baseball Analysis
 
-1. 
-2. 
-3. 
+1. Where are professional baseball players born?
+    1. Signicant amount of players were born in California with Texas and Florida being the 2nd and 3rd most players.
+2. Should the National League adopt the designated hitter rule.
+    - Signicant amount of players were born in California with Texas and Florida being the 2nd and 3rd most players.
+3. Should the National League adopt the designated hitter rule.
+5. 
 
 -----------
 
