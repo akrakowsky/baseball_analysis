@@ -15,8 +15,10 @@ CSV files are from Kaggle: The History of Baseball
     5. fielding.csv
     6. players.csv
     7. config.py
-2. License
-3. ReadMe
+2. Baseball Analysis Powerpoint
+3. Baseball Analysis Powerpoint as PDF
+4. License
+5. ReadMe
 
 -----------
 
